@@ -12,7 +12,7 @@ public class CreateContact {
 		person.setAddress("wagholi Pune");
 		person.setState("Maharashtra");
 		person.setZip(412207);
-		person.setPhonenumber(1234567890); 
+		person.setPhonenumber(1234567890).; 
 		
 		System.out.println(person);
 	 }
